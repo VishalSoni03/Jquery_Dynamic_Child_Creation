@@ -1,0 +1,77 @@
+hr
+{
+	margin-bottom:0px;
+}
+
+#outerdiv
+{
+	background-color : rgba(242,242,242,0.44); 
+	margin-top:0
+}
+
+.jumbotron
+{
+	background-color : rgba(183,100,52,0.69);
+	min-height : 65%;
+	color:white;
+}
+.rowclass
+{
+	width:100%;
+}
+#maindiv 
+{
+	max-width :1200px;
+	margin: 0 auto;
+	padding-top : 50px;
+}
+
+.newdivclass
+{
+	color:white;
+	height:150px;
+	background-color : #639DBF;
+	border:2px solid white;
+	opacity:0;
+	-moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+
+.newdivclass : hover
+{
+	opacity:1;
+}
+
+.storytext
+{
+	position:absolute;
+	bottom:0;
+}
+
+
+.no-display
+{
+	visibility:hidden;
+}
+
+#footer-hr
+{
+    color: #639DBF;
+    border: 1px solid;
+    margin-top: 30px;
+}
+
+#footer-text
+{
+    color: #639DBF;
+}
+
+#footer-glyph
+{
+	color : #639DBF; 
+	font-size:40px;
+}
+
+
